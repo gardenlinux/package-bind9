@@ -1,1 +1,1 @@
-git_src --branch debian/1%9.19.24-2 https://salsa.debian.org/dns-team/bind9.git
+git_src --branch debian/1%9.20.4-4 https://salsa.debian.org/dns-team/bind9.git
