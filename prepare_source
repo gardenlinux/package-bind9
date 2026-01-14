@@ -1,2 +1,5 @@
-git_src --branch debian/1%9.20.17-1 https://salsa.debian.org/dns-team/bind9.git
-version_suffix=gl0~bp1592
+version_orig=9.20.17-1
+version=1:9.20.17-1
+version_suffix="gl0+bp1877"
+
+git_src --branch "debian/1%$version_orig" "https://salsa.debian.org/dns-team/bind9.git"
